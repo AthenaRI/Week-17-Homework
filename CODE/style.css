@@ -1,0 +1,42 @@
+h1 {
+    font-size: 180px;
+    color: #1B402E;}
+  
+  h2 {
+    font-size: 120px;
+    color: #1B402E;}
+  
+  h3 {
+    text-align: center;
+    font-size: 50px;
+    color: #3E4E2D;}
+  
+  h4 {
+    text-align: center;
+    font-size: 40px;
+    color: #3E4E2D;}
+
+    a, u {
+      font-size: 40px;
+      color:white;
+      text-decoration: none;
+    }
+  
+    .twin-image {
+      border-radius: 50%;
+    }
+
+    .navbar {
+     display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background-color:#3E4E2D;
+      width:1112px;
+      height:70px;
+      line-height:60px;
+      margin:0px auto;
+      padding: 0%;
+      position:relative;
+      border-radius: 11px;
+    }
+
